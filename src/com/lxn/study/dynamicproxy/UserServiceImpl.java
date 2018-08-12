@@ -1,3 +1,5 @@
+package com.lxn.study.dynamicproxy;
+
 public class UserServiceImpl implements UserService {
     @Override
     public void getName(String userId) {

@@ -1,7 +1,8 @@
+package com.lxn.study.dynamicproxy;
+
 import org.junit.Test;
 import sun.misc.ProxyGenerator;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.lang.reflect.InvocationHandler;
